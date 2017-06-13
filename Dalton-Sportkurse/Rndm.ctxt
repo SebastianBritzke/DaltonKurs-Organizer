@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Rndm()
+comment1.params=anzahlSch\u00FCler
+comment1.target=void\ main(int)
+comment2.params=n
+comment2.target=int[]\ createArray(int)
+comment3.params=numbers
+comment3.target=void\ testFull(int[])
+numComments=4

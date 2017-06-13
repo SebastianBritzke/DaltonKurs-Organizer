@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=pl\ n
+comment0.target=Kurse(int,\ java.lang.String)
+comment1.params=
+comment1.target=int\ getPl\u00E4tze()
+comment2.params=pl\ n
+comment2.target=void\ addKurs(int,\ java.lang.String)
+numComments=3
