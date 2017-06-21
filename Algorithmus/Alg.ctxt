@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Alg()
+comment1.params=sch\u00FCler
+comment1.target=void\ createArray(java.lang.String)
+comment2.params=
+comment2.target=void\ shuffle()
+comment3.params=l\u00E4nge
+comment3.target=boolean\ testFull(int)
+comment4.params=i
+comment4.target=void\ getElements(int)
+comment5.params=i
+comment5.target=void\ getRemainingElements(int)
+numComments=6
